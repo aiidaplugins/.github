@@ -1,4 +1,4 @@
-# Development Conventions
+# Contributing Guidelines
 
 Welcome to aiidaplugins!
 We're excited you're here and want to contribute 🎉.
